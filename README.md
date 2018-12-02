@@ -1,6 +1,6 @@
 # Introduction
 
-A weex template with vue-router, vuex and sass.
+A weex template with vue-router, vuex, weex-ui and sass.
 
 ## Quickstart
 
